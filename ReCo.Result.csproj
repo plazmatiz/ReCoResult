@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+
+    <!-- Package Metadata -->
+    <PackageId>ReCo.Result</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>PLAZMATiZ</Authors>
+    <Description>Lightweight Result pattern library for .NET</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>result;result-pattern;error-handling;functional;dotnet</PackageTags>
+    <RepositoryUrl>https://github.com/PLAZMATiZ/ReCo.Result</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/PLAZMATiZ/ReCo.Result</PackageProjectUrl>
+
+    <!-- Include XML documentation in the package -->
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
