@@ -6,16 +6,16 @@
     <Nullable>enable</Nullable>
 
     <!-- Package Metadata -->
-    <PackageId>ReCo.Result</PackageId>
+    <PackageId>ReCoResult</PackageId>
     <Version>1.0.0</Version>
-    <Authors>PLAZMATiZ</Authors>
+    <Authors>plazmatiz</Authors>
     <Description>Lightweight Result pattern library for .NET</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>result;result-pattern;error-handling;functional;dotnet</PackageTags>
-    <RepositoryUrl>https://github.com/PLAZMATiZ/ReCo.Result</RepositoryUrl>
+    <RepositoryUrl>https://github.com/plazmatiz/ReCoResult</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageProjectUrl>https://github.com/PLAZMATiZ/ReCo.Result</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/plazmatiz/ReCoResult</PackageProjectUrl>
 
     <!-- Include XML documentation in the package -->
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

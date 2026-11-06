@@ -1,4 +1,4 @@
-namespace ReCo.Result.Interfaces;
+namespace ReCoResult.Interfaces;
 
 /// <summary>
 /// Defines the contract for error objects used within the result pattern.

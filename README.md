@@ -1,4 +1,4 @@
-# ReCo.Result
+# ReCoResult
 
 A lightweight, expressive implementation of the Result pattern for .NET.
 
@@ -16,13 +16,13 @@ A lightweight, expressive implementation of the Result pattern for .NET.
 Install via the .NET CLI:
 
 ```bash
-dotnet add package ReCo.Result
+dotnet add package ReCoResult
 ```
 
 Or via the NuGet Package Manager:
 
 ```powershell
-Install-Package ReCo.Result
+Install-Package ReCoResult
 ```
 
 ## Quick Start

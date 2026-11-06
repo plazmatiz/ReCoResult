@@ -1,6 +1,6 @@
-using ReCo.Result.Interfaces;
+using ReCoResult.Interfaces;
 
-namespace ReCo.Result;
+namespace ReCoResult;
 
 /// <summary>
 /// Represents a concrete application error containing a descriptive message and a categorized error code.

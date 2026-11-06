@@ -1,4 +1,4 @@
-namespace ReCo.Result;
+namespace ReCoResult;
 
 public enum ErrorCode
 {

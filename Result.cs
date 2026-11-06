@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using ReCo.Result.Interfaces;
+using ReCoResult.Interfaces;
 
-namespace ReCo.Result;
+namespace ReCoResult;
 
 /// <summary>
 /// Represents the outcome of an operation that produces a value of type <typeparamref name="T"/>,
